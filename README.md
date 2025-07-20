@@ -35,14 +35,14 @@ It demonstrates practical experience with LangChain, vector databases, OpenAI em
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/multimodal-rag.git
 cd multimodal-rag
 
 
 ### 2. Set Up the Environment
 
-```bash
+
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 Create a `.env` file in the root directory with the following:
 
-```ini
+
 LANGCHAIN_API_KEY="your_key"
 OPENAI_API_KEY="your_key"
 LANGCHAIN_PROJECT="your_project_name"
@@ -68,7 +68,7 @@ Use `.env_example` as a template.
 
 ## Project Structure
 
-```yaml
+
 .
 ├── code.ipynb              # Full RAG pipeline notebook
 ├── data/
