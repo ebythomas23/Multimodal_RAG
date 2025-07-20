@@ -1,0 +1,10 @@
+langchain-community 
+pymupdf
+pytesseract
+langchain_experimental 
+langchain_openai
+langchain_milvus
+langchain_google_genai
+langchain
+python-docx
+dotenv
